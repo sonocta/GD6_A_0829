@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833231975997",
+    "project_id": "localnotification-f1216",
+    "storage_bucket": "localnotification-f1216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833231975997:android:7ee0da5cc6e816c5951c54",
+        "android_client_info": {
+          "package_name": "com.octa.gd6_a_0829"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833231975997-labnpngomjudac41ko0kthrnlbcq31go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK390HPKV7ZIL4bwDLNt73sf8hHD08jMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833231975997-labnpngomjudac41ko0kthrnlbcq31go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
